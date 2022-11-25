@@ -1,7 +1,10 @@
 # Car-Sharing
 Car-sharing is a service that allows drivers to use a shared vehicle and it represents one of the pillars of sustainable urban mobility. Cars are distributed in cities within a defined business area and can be spontaneously and flexibly picked up and dropped off there at any time.
+
 In this project, we have a dataset on a Car Renting Company. This data includes the date of each trip, station codes of origins and destinations, customer IDs, and also reserved time of the trip and the actual time.
+
 By having this data, a model was developed for the administrators of the company for easier analysis of the trips and customers’ behavior. The code was developed by Python, using the Pandas library, and in what follows, each section’s purpose and details are presented.
+
 In the first part, the user enters two dates (from 990101 to 991229 in this dataset), and the following reports will be presented:
 Totals number of orders and canceled reserves between the dates
 Average number and standard deviations of orders on each day between the dates
